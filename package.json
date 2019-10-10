@@ -1,0 +1,26 @@
+{
+  "name": "@jdstmporter/rand-js",
+  "version": "1.0.0",
+  "description": "randomiser that either uses crypto.getRandomValues or falls back to a non-linear pseudo-random source",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jdstmporter/rand-js.git"
+  },
+  "keywords": [
+    "randomise",
+    "browser",
+    "server",
+    "fallback",
+    "ES2015"
+  ],
+  "author": "Julian Porter",
+  "license": "BSD-3-Clause",
+  "bugs": {
+    "url": "https://github.com/jdstmporter/rand-js/issues"
+  },
+  "homepage": "https://github.com/jdstmporter/rand-js"
+}
